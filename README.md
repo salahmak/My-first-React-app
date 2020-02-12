@@ -1,2 +1,2 @@
-# salahmak.github.io
-My first React app ever
+
+# My first React app ever
